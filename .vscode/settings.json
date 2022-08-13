@@ -1,0 +1,12 @@
+{
+    // "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.autoComplete.extraPaths": [
+        "D:\\ForBlenderDebugging\\blender_autocomplete\\3.2",
+        "C:\\Program Files\\Blender/ Foundation\\Blender/ 3.2\\3.2\\scripts\\modules"
+    ],
+    "python.analysis.extraPaths": [
+        "D:\\ForBlenderDebugging\\blender_autocomplete\\3.2",
+        "C:\\Program Files\\Blender/ Foundation\\Blender/ 3.2\\3.2\\scripts\\modules"
+    ]
+}
